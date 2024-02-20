@@ -4,7 +4,7 @@ The following files pertain to code used to parse data and conduct analysis for 
 
 Project outline:
 
--   01_xx CSTDM data processing at TAZ level
+-   01_xx CSTDM data processing 
 -   02_xx Combine EV Toolbox to CSTDM to get EV trips  
 -   03_xx From EV trips to charging events
 -   04_xx Assign charging events to feeders
@@ -12,4 +12,4 @@ Project outline:
 -   06_xx Calculate aggregate charging load profile on each feeder
 -   07_xx Combine grid data (baseload and capacity) with the EV charging load
 -   08_xx Scripts to make plots out of results
--   09_xx Upgrade cost calculation
+-   09_xx Cost calculation
